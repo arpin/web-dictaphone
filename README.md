@@ -1,3 +1,6 @@
+This is a minimal example of the original https://github.com/mdn/web-dictaphone
+
+
 A sample MDN app that uses getUserMedia and MediaRecorder API for recording audio snippets, and The Web Audio API for visualizations.
 
 You can [play with the live demo](https://mdn.github.io/web-dictaphone/).
